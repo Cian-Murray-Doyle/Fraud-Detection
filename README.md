@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # The Product Idea
 
 An Post found that 12% of Irish people lose their card when travelling abroad and that 9/10 Irish people highly value access to emergency funds in these scenarios. Our proposed idea for Revolut was an emergency credit card. More details can be viewed in the product report file. In order to implement this credit card Revolut needed a reliable way of detecting fraud, as well as forecast the potential revenue this would generate.
@@ -86,3 +87,9 @@ By using AIC and BIC we can find the ideal parameters for creating our ARIMA mod
 To understand the predictive power of our forecasting model more we can visualise the results on a line chart. As we can see the forecasting model isn’t accurate, backed up statistically by the models’ high root mean squared error of 276938.73. The model’s inaccuracy is likely due to the limited time series it was trained on. A longer time frame of data would allow for the creation of a more accurate forecasting model.
 
 ![](images/graph13.PNG)
+=======
+# Revolut-Fraud-Detection
+For Econometrics and Forecasting EF308 module, we were tasked with creating a new product idea for Revolut. My groups idea was an emergency credit card for those who have lost wallet abroad.
+
+A comprehesive report on how the project was carried out can be viewed through the PDF available, along with our product pitch video and slide deck outlining the benefits and risks for Revolut when implementing this project. 
+>>>>>>> dccebba6f115fa3eb644d2c9788c8a83d0b62b9c

@@ -160,7 +160,7 @@ ax3.set_title('V10 Distribution \n (Fraud Transactions)', fontsize=14)
 
 plt.show()
 
-#Removing outliers IQR method
+#Removing outliers IQR method - Only 1 feature had normal distribution
 v14 = fraud_c['V14'].loc[fraud_c['Class']==1].values
 q1 = np.percentile(v14,25)
 q3 = np.percentile(v14,75)
@@ -213,7 +213,7 @@ plt.show()
 
 #Forecasting
 #Time column is stored as seconds elapsed from first transaction
-#Dataset is from September 2013 - Assuming start date is 1st
+#Dataset is from September 2020 - Assuming start date is 1st
 start_date = pd.to_datetime('2020-09-01')
 credit_fraud_for = pd.read_csv(file_path+file_name)
 credit_fraud_for['date_time'] = pd.to_timedelta(credit_fraud_for['Time'],
