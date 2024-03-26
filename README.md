@@ -92,3 +92,7 @@ By using AIC and BIC we can find the ideal parameters for creating our ARIMA mod
 To understand the predictive power of our forecasting model more we can visualise the results on a line chart. As we can see the forecasting model isn’t accurate, backed up statistically by the models’ high root mean squared error of 276938.73. The model’s inaccuracy is likely due to the limited time series it was trained on. A longer time frame of data would allow for the creation of a more accurate forecasting model.
 
 ![](images/graph13.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> af589057ce3f47d9ef32a2a221b88937b10f9b4a
