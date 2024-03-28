@@ -4,6 +4,8 @@ For the Econometrics and Forecasting EF308 module, we were tasked with creating 
 
 A comprehensive report on how the project was carried out can be viewed through the PDF available, along with our product pitch video and slide deck outlining the benefits and risks for Revolut when implementing this project.
 
+The dataset was too large to upload, however, it can be viewed through this Google Drive link [Link to Data](https://drive.google.com/file/d/1LuaYBE00i8jqiYPSBuJfqWkBClzNNjfy/view?usp=drive_link)
+
 # The Product Idea
 
 An Post found that 12% of Irish people lose their cards when travelling abroad and that 9/10 Irish people highly value access to emergency funds in these scenarios. Our proposed idea for Revolut was an emergency credit card. More details can be viewed in the product report file. In order to implement this credit card Revolut needed a reliable way of detecting fraud, as well as forecast the potential revenue this would generate.
