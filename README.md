@@ -2,7 +2,7 @@
 
 For the Econometrics and Forecasting EF308 module, we were tasked with creating a new product idea for Revolut. My group's idea was an emergency credit card for those who have lost their wallet abroad.
 
-A comprehensive report on how the project was carried out can be viewed through the PDF available, along with our product pitch video and slide deck outlining the benefits and risks for Revolut when implementing this project.
+A comprehensive report on how the project was carried out can be viewed through the PDF available, along with our product pitch video and slide deck outlining the benefits and risks for Revolut when implementing this project. *This report will be made available sometime post due date, to avoid potential plagiarism issues.
 
 The dataset was too large to upload, however, it can be viewed through this Google Drive link [Link to Data](https://drive.google.com/file/d/1LuaYBE00i8jqiYPSBuJfqWkBClzNNjfy/view?usp=drive_link)
 
